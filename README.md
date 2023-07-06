@@ -7,3 +7,4 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 - [X] Exercício 4 - Implemente um ícone na página.
 - [X] Exercício 5 - Construa um código HTML que faça uso dos títulos e sua hierarquia.
 - [X] Exercício 6 - Represente em um código algumas tags obsoletas.
+- [X] Exercício 7 - Implemente no código algumas tags de formatação de texto.
