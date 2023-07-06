@@ -15,5 +15,6 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 - [X] Exercício 12 - Primeiro, demonstre o uso de vídeos locais em um site, e depois, o uso de links de importação por meio de sites como youtube ou vimeo.
 - [X] Exercício 13 - Use o CSS para criar um background-image.
 - [X] Exercício 14 - Através do CSS, crie códigos HTML que façam uso das cores.
-- [X] Exercício 15 - Pratique estilização de fontes e alinhamento.
+- [X] Exercício 15 - Pratique estilação por meio das fontes, e text-align.
 - [X] Exercício 16 - Construa um código HTML fazendo uso da aplicação de fontes importadas, e fontes aplicadas por meio do download de arquivos.
+- [X] Exercício 17 - Pratique o uso de seletores de classe e id.
