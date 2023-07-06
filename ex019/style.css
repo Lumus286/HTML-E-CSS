@@ -1,0 +1,88 @@
+/* CSS Reset
+
+Remove as margens e preenchimentos padrão 
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+Define estilos de base para elementos HTML
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+} */
+
+
+body {
+    background-color: grey;
+}
+
+header {
+    background-color: white;
+    padding: 1px 1px 10px 3px;
+    border-radius: 10px;
+}
+
+#titulo {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+main {
+    background-color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.397);
+    border-radius: 10px 0;
+}
+
+article > p, h2, aside {
+    margin: 10px;
+    padding: 5px 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 1px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+footer > p {
+    margin: 0;
+}
