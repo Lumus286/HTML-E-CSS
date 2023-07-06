@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DocuMídias Em Html 5ment</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou mude o tamanho do navegador</p>
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="imagem G flexível">
+    </picture>
+    <h1>Reproduzindo aúdios em HTML</h1>
+    <audio src="midia/happy-mistake.mp3" controls></audio> <!--MP3, WAV e OGG são as formas de aúdio-->
+    <audio preload="metadata">
+        <source src="midia/rusty_lake_lobby.mp3" type="audio/mpeg">
+        <source src="midia/happy-mistake.ogg" type="audio/ogg">
+        <source src="midia/rusty_lake_lobby.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir audios, clique <a href="midia/happy-mistake.mp3">aqui</a> para realizar o download do arquivo</p>
+    </audio> <!--Evitar arquivos WAV, pois são muito pesados-->
+    <h2>Aqui temos exemplos de vídeos</h2>
+    <video width="600" poster="midia/VIDEO.png" controls autoplay>
+        <source src="midia/pexels_videos_1171471 (1080p).mp4" type="video/mp4">
+        <source src="midia/pexels_videos_1171471 (1080p).webm" type="video/webm">
+        <source src="midia/pexels_videos_1171471 (1080p).ogv" type="video/ogg">
+        <p>Infelizmente seu navegador não possui compatibilidade com reprodução de vídeos, faça o download por esse <a href="midia/pexels_videos_1171471 (1080p).mp4">link</a></p><!---->
+    </video>
+</body>
+</html>
