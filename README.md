@@ -3,6 +3,6 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 
 - [X] Exercício 1 - Crie uma página Web simples que deve conter o título 'Olá, mundo!'.
 - [X] Exercício 2 - Crie uma estrutura HTML que deva fazer o uso de parágrafos e quebra de linha, também adicione ao menos um símbolo e um emote.
-- [X] Crie um código HTML que contenha imagens.
-- [X] Implemente um ícone na página.
-- [X] Construa um código HTML que faça uso dos títulos e sua hierarquia.
+- [X] Exercício 3 - Crie um código HTML que contenha imagens.
+- [X] Exercício 4 - Implemente um ícone na página.
+- [X] Exercício 5 - Construa um código HTML que faça uso dos títulos e sua hierarquia.
