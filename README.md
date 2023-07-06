@@ -11,3 +11,4 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 - [X] Exercício 8 - Implemente mais algumas tags de formatação de texto.
 - [X] Exercício 9 - Construa um código HTML que faça uso das listas ordenas e das não-ordenadas.
 - [X] Exercício 10 - Crie um código HTML que faça uso de links externos, internos e links de Download.
+- [X] Exercício 11 -Aplique o conceito de responsividade em imagens. Também habilite a reprodução de determinado áudio e videos locais em seu site.
