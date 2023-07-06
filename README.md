@@ -13,3 +13,4 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 - [X] Exercício 10 - Crie um código HTML que faça uso de links externos, internos e links de Download.
 - [X] Exercício 11 - Aplique o conceito de responsividade em imagens. Também habilite a reprodução de determinado áudio e videos locais em seu site.
 - [X] Exercício 12 - Primeiro, demonstre o uso de vídeos locais em um site, e depois, o uso de links de importação por meio de sites como youtube ou vimeo.
+- [X] Exercício 13 - Use o CSS para criar um background-image.
