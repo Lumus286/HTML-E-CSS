@@ -19,3 +19,4 @@ Conjunto da resolução dos exercícios e desafios propostos pelo curso do Gusta
 - [X] Exercício 16 - Construa um código HTML fazendo uso da aplicação de fontes importadas, e fontes aplicadas por meio do download de arquivos.
 - [X] Exercício 17 - Pratique o uso de seletores de classe e id.
 - [X] Exercício 18 - Aprimore seus conhecimentos construindo um código html que faça uso de pseudo-classes e personalização de links. 
+- [X] Exercício 19 - Pratíque o uso e a manipulação das boxes no HTML.
