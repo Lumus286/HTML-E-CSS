@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+    margin: 10px;
+    padding: 10x;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+menu {
+    display: none;
+}
+
+article::after {
+    content: 'esse artigo foi escrito dia 14 de julho de 2023';
+}
+
+header {
+    background-color: gray;
+}
