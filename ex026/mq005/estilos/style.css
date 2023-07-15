@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+/* mobile first */
+
 * {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -46,7 +48,7 @@ menu a {
     padding: 10px;
     text-decoration: none;
     text-align: center;
-    border: 2px solid lightgray;
+    border: 2px solid rgba(211, 211, 211, 0.185);
 }
 
 menu a:hover {
